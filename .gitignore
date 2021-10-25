@@ -1,0 +1,4 @@
+..vscode/.alpackages/*.*
+.alpackages/*.*
+*.app
+.vscode/*.*

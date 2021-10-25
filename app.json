@@ -1,0 +1,25 @@
+{
+  "id": "ae0c0da0-b423-4721-91e3-4baef70772a4",
+  "name": "ALIntegratonWeb",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50900,
+      "to": 50949
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0"
+}
