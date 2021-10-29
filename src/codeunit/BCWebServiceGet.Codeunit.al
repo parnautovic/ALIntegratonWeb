@@ -126,6 +126,7 @@ codeunit 50900 "BCWebServiceGet"
     local procedure GetFieldValue(var JsonObject: JsonObject; FieldName: Text): JsonValue
     var
         JsonToken: JsonToken;
+        
     begin
         JsonObject.Get(FieldName, JsonToken);
         exit(JsonToken.AsValue());
